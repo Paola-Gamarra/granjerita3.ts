@@ -1,0 +1,12 @@
+console.log("avanza");
+console.log("llena pila");
+console.log("avanza");
+console.log("avanza");
+console.log("avanza");
+console.log("llena pila");
+console.log("avanza");
+console.log("elimina pila");
+console.log("avanza");
+console.log("elimina pila");
+console.log("avanza");
+console.log("LOGRADO");
